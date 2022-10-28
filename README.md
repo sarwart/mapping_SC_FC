@@ -12,7 +12,7 @@ The rest of this document is sectioned according to files and scripts in this re
 
 [**reload.py**](https://github.com/sarwart/mapping_SC_FC/blob/master/network.py) is a sample script for predicting functional connectivity using a pre-trained neural network 
 
-[**example_data.mat**](https://github.com/sarwart/mapping_SC_FC/blob/master/example_data.mat) represents the sample data which consists of the 100 structural and functional connectivity matrices (the upper triangle of the connectivity matrix). This dataset is used as an input for train.py script.
+[**example_data.mat**](https://github.com/sarwart/mapping_SC_FC/blob/master/example_data.mat) represents the sample data which consists of the 100 structural and functional connectivity matrices (the upper triangle of the connectivity matrix). This dataset is used as an input for train.py script. (P.S. This is a dummy data and need to be replaced by your data)
 
 
 
